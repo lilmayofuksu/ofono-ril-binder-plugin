@@ -7,8 +7,8 @@ License: BSD
 URL: https://github.com/mer-hybris/ofono-ril-binder-plugin
 Source: %{name}-%{version}.tar.bz2
 
-%define ofono_version 1.21+git42
-%define libgrilio_version 1.0.26
+%define ofono_version 1.21+git44
+%define libgrilio_version 1.0.29
 %define libgbinder_version 1.0.23
 %define libgbinder_radio_version 1.0.4
 
